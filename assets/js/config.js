@@ -5,7 +5,7 @@
  */
 const SITE_CONFIG = {
   // One or more numbers, in the format they should be displayed
-  phones: ["+977 9852690590", "+977 9801415167"],
+  phones: ["+977 9852690590", "+977 9801415167", "+977 23 590898"],
 
   email: "woodlandhotel146@gmail.com",
 
